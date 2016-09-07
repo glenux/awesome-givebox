@@ -6,8 +6,6 @@ A curated list of references to awesome Givebox presentations, guides, blueprint
 
 Your favorite document is not listed? Fork and [create a Pull Request](https://github.com/glenux/awesome-givebox/edit/master/README.md) to add it!
 
-## Presentations
-
 ## Guides
 
 * [Monter une Givebox dans votre quartier (fr)](http://giveboxlyon.blogspot.fr/p/pour-monter-une-givebox-dans.html)
@@ -16,8 +14,6 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 ## Blueprints
 
 * [Plan givebox (fr)](http://www.yupik-communication.com/plan-give-box.pdf)
-
-## Articles
 
 ## Givebox directory & map
 
