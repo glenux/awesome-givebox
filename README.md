@@ -23,7 +23,7 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 ## Directory & map
 
-* (2015-03-31 &rarr; ?) Impasse de l'école, 67390 Marckolsheim
+* (2015-03-31 &rarr; ?) [Impasse de l'école, 67390 Marckolsheim](http://www.labouilloire.fr/fr/actualites/2015/03/31/givebox)
 
 
 ## Community groups
