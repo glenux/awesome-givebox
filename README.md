@@ -8,7 +8,9 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 ## Presentation
 
-* [Give Box on Movilab](http://movilab.org/index.php?title=Give_Box)
+* [Give Box on Movilab (fr)](http://movilab.org/index.php?title=Give_Box)
+* [La givebox, la boîte qui donne de la générosité (fr)](http://www.consoglobe.com/givebox-boite-don-cg)
+
 
 ## Guides
 
