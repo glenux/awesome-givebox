@@ -26,6 +26,10 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 ## Community groups
 
+Belgique
+
+* [Spa](http://www.villedespa.be/ma-ville/services-communaux/cadre-de-vie/environnement/une-give-box-a-spa)
+
 [France](https://www.facebook.com/GiveboxFrance/)
 
 * [Le Cateau-Cambrésis - SolidarityBox](https://www.facebook.com/Giveboxlecateau/)
