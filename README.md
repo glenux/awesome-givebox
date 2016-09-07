@@ -18,9 +18,10 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 [France](https://www.facebook.com/GiveboxFrance/)
 
-* [Givebox Le Cateau-Cambrésis - SolidarityBox](https://www.facebook.com/Giveboxlecateau/)
-* [Givebox Lyon](https://www.facebook.com/Givebox-LYON-291157047749989/)
-* [Givebox Noisy-Le-Sec](https://www.facebook.com/GIVEBOXNOISYLESEC)
+* [Le Cateau-Cambrésis - SolidarityBox](https://www.facebook.com/Giveboxlecateau/)
+* [Lyon](https://www.facebook.com/Givebox-LYON-291157047749989/)
+* [Noisy-Le-Sec](https://www.facebook.com/GIVEBOXNOISYLESEC)
+* [Villaudric Route Vacquiers](https://www.facebook.com/groups/giveboxvillaudric31/)
 
 Other countries ?
 
