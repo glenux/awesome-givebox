@@ -6,6 +6,10 @@ A curated list of references to awesome Givebox presentations, guides, blueprint
 
 Your favorite document is not listed? Fork and [create a Pull Request](https://github.com/glenux/awesome-givebox/edit/master/README.md) to add it!
 
+## Presentation
+
+* [Give Box on Movilab](http://movilab.org/index.php?title=Give_Box)
+
 ## Guides
 
 * [Monter une Givebox dans votre quartier (fr)](http://giveboxlyon.blogspot.fr/p/pour-monter-une-givebox-dans.html)
