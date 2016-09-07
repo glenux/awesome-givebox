@@ -9,9 +9,8 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 ## Community groups
 
-France
+[France](https://www.facebook.com/GiveboxFrance/)
 
-* [Givebox France](https://www.facebook.com/GiveboxFrance/)
 * [Givebox Le Cateau-Cambrésis - SolidarityBox](https://www.facebook.com/Giveboxlecateau/)
 * [Givebox Lyon](https://www.facebook.com/Givebox-LYON-291157047749989/)
 * [Givebox Noisy-Le-Sec](https://www.facebook.com/GIVEBOXNOISYLESEC)
