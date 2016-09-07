@@ -6,6 +6,13 @@ A curated list of references to awesome Givebox presentations, guides, blueprint
 
 Your favorite document is not listed? Fork and [create a Pull Request](https://github.com/glenux/awesome-givebox/edit/master/README.md) to add it!
 
+## Presentations
+
+## Guides
+
+## Blueprints
+
+## Articles
 
 ## Community groups
 
