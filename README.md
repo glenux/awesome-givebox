@@ -15,7 +15,7 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 ## Guides
 
 * [Monter une Givebox dans votre quartier (fr)](http://giveboxlyon.blogspot.fr/p/pour-monter-une-givebox-dans.html)
-
+* [Fiche projet Givebox (fr)](http://www.quartiersdurablescitoyens.be/wp-content/uploads/2014/07/fiche-projet_GIVEBOX_vert_FR.pdf)
 
 ## Blueprints
 
@@ -32,6 +32,8 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 * [Lyon](http://giveboxlyon.blogspot.fr/) : [Facebook](https://www.facebook.com/Givebox-LYON-291157047749989/) 
 * [Noisy-Le-Sec](https://www.facebook.com/GIVEBOXNOISYLESEC)
 * [Villaudric Route Vacquiers](https://www.facebook.com/groups/giveboxvillaudric31/)
+* [Côtes d'Armor](https://www.facebook.com/giveboxmidia14h/)
+
 
 Other countries ?
 
