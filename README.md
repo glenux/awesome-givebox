@@ -7,4 +7,15 @@ A curated list of references to awesome Givebox presentations, guides, blueprint
 Your favorite document is not listed? Fork and [create a Pull Request](https://github.com/glenux/awesome-givebox/edit/master/README.md) to add it!
 
 
+## Community groups
+
+France
+
+* [Givebox France](https://www.facebook.com/GiveboxFrance/)
+* [Givebox Le Cateau-Cambrésis - SolidarityBox](https://www.facebook.com/Giveboxlecateau/)
+* [Givebox Lyon](https://www.facebook.com/Givebox-LYON-291157047749989/)
+* [Givebox Noisy-Le-Sec](https://www.facebook.com/GIVEBOXNOISYLESEC)
+
+Other countries ?
+
 
