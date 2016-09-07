@@ -13,3 +13,15 @@ http://lyon7rivegauche.com/givebox-place-saint-louis/
 http://www.mairie4.lyon.fr/actualite/solidarite/givebox-x-rousse_4.html
 
 http://lesmoutonsenrages.fr/2014/10/16/installez-une-give-box-dans-votre-quartier/
+
+http://www.say-yess.com/2015/7372/givebox-prendre-ou-laisser/
+
+http://blogs.grandlyon.com/plan-climat/2015/06/08/heros-ordinaires-la-givebox/
+
+https://ateliertoupie.wordpress.com/projet-givebox/
+
+http://www.quartiersdurablescitoyens.be/tuyaux-pour-mes-projets/consommer-moins-et-mieux/
+
+http://movilab.org/index.php?title=Boites_d%27%C3%A9changes_entre_voisins
+
+http://movilab.org/index.php?title=Give_Box
