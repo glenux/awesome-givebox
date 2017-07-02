@@ -21,7 +21,7 @@ Your favorite document is not listed? Fork and [create a Pull Request](https://g
 
 * [Plan givebox (fr)](http://www.yupik-communication.com/plan-give-box.pdf)
 
-## Directory & map
+## Directory of active giveboxes
 
 * (2015-03-31 &rarr; ?) [Impasse de l'école, 67390 Marckolsheim](http://www.labouilloire.fr/fr/actualites/2015/03/31/givebox)
 
